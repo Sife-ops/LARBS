@@ -12,6 +12,7 @@
 ,cmatrix,"is a terminal screen saver inspired by the eponymous film."
 ,cronie,"is a cron daemon."
 ,ctags,"generates tag files for source code."
+,dash,"is a POSIX compliant shell."
 ,dhclient,"is a dhcp client."
 ,dhcpcd,"is a dhcp dlient"
 ,dialog,"displays dialog boxes from shell scripts."
