@@ -16,6 +16,7 @@
 # ,dhclient,"is a dhcp client."
 # ,dhcpcd,"is a dhcp dlient."
 ,dialog,"displays dialog boxes from shell scripts."
+,doas,"executes commands as another user."
 ,dosfstools,"allows your computer to access dos-like filesystems."
 ,dunst,"is a suckless notification system."
 ,emacs,"is a lisp interpreter."
