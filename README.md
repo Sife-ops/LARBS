@@ -1,4 +1,4 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Sife's Auto-Rice Bootstrapping Scripts (SARBS)
 
 ## Installation:
 
